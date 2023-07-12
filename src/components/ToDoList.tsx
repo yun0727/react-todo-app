@@ -12,7 +12,7 @@ function ToDoList() {
   console.log(toDos);
     return (
       <div>
-        <h1>To Dos</h1>
+        <h1>To Dosss</h1>
         <hr/>
         <select value={category} onInput={onInput}>
           <option value={Categories.TO_DO}>To Do</option>
